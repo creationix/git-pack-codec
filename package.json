@@ -1,0 +1,22 @@
+{
+  "name": "git-pack-codec",
+  "version": "0.0.1",
+  "description": "Encoder and Decoder for gitfile streams for js-git.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/git-pack-codec.git"
+  },
+  "keywords": [
+    "js-git",
+    "packfile",
+    "codec"
+  ],
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creationix/git-pack-codec/issues"
+  },
+  "dependencies": {
+    "varint": "0.0.3"
+  }
+}
